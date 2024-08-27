@@ -9,9 +9,9 @@ to format my social media button
 
 ## Media
 ### Example Photo
-![Example Image](./Assets/Images/Screenshot%202024-08-25%20101308.png)
-![Example Image](./Assets/Images/Screenshot%202024-08-25%20101341.png)
-![Example Image](./Assets/Images/Screenshot%202024-08-25%20101404.png)
+![Example Image](./Assets/Images/Screenshot%201.png)
+![Example Image](./Assets/Images/Screenshot%202.png)
+
 
 * The URL of the deployed application.
 [link to the website](https://github.com/thegreatwall88/Portfolio-Website/)
